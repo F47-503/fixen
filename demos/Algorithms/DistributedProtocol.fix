@@ -1,4 +1,4 @@
-module DistributedProtocol where
+module Algorithms.DistributedProtocol where
 
 import Numeric.Natural
 

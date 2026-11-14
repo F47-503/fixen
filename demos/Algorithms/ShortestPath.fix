@@ -1,4 +1,4 @@
-module ShortestPath where
+module Algorithms.ShortestPath where
 
 import Numeric.Natural
 

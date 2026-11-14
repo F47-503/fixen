@@ -1,4 +1,4 @@
-module NumberTheory where
+module Algorithms.NumberTheory where
 
 import Numeric.Natural
 
